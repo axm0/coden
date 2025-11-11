@@ -66,4 +66,4 @@ vsce package
 1. Download the `.vsix` file from the latest release
 2. Open VS Code and go to Extensions
 3. Click on the `...` menu and select "Install from VSIX"
-4. Choose the downloaded file and restart VS Code
+4. Choose the downloaded file and restart VS Code 
