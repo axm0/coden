@@ -1,5 +1,7 @@
 # Coden
 
+Demo: https://youtu.be/Yua3vA3e5ak?si=5Ateyan1cRegVspv
+
 A VS Code extension that tracks GitHub Copilot code suggestions accepted by users.
 
 ![Coden Interface](images/Screenshot%202025-05-16%20180346.png)
